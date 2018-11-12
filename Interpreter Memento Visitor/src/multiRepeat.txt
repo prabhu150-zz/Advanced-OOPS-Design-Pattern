@@ -1,0 +1,14 @@
+turn 90
+#side = 1
+penDown
+#length = 1
+move #side
+move #length
+repeat 3
+turn 90
+move #side
+repeat 2
+penDown
+move #length
+end
+end

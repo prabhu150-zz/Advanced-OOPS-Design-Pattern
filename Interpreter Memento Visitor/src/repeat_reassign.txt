@@ -1,0 +1,9 @@
+#length = 1
+repeat 2
+move #length
+#length = 3
+repeat 2
+move #length
+#length = 1
+end
+end

@@ -1,0 +1,11 @@
+#side = 10
+#angle = 90
+move #side
+turn #angle
+#side = 20
+#angle = -60
+move #side
+turn #angle
+move 15
+penUp
+penDown
